@@ -119,7 +119,7 @@
             <mxPoint x="410" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dxYRDehrnxx0om4Fih_I-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="no. PLS components" vertex="1">
+        <mxCell id="dxYRDehrnxx0om4Fih_I-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="No. PLS components" vertex="1">
           <mxGeometry height="30" width="60" x="270" y="355" as="geometry" />
         </mxCell>
         <mxCell id="dxYRDehrnxx0om4Fih_I-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="PLS Prediction" vertex="1">
